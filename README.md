@@ -120,10 +120,7 @@ I have used:
 
 2.A visual communication method (bar chart) for explaining results to stakeholders
 
-
-
-
-
+## OUTPUT:
 
 
 
