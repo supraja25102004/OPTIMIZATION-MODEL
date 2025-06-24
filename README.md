@@ -97,6 +97,17 @@ All machine and labor resources are fully utilized (tight constraints)
 
 This means the factory is operating at full capacity in the most profitable way possible.
 
+## How to implement it:
+
+->Use VS Code or Jupyter Notebook.
+
+->Install dependencies:
+
+     pip install pulp matplotlib
+
+->Now execute it.
+
+
 ## Conclusion:
 
 This project is a textbook application of prescriptive analytics in data science. It highlights how mathematical modeling and programming can solve real-world business problems efficiently.
