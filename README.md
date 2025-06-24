@@ -122,10 +122,9 @@ I have used:
 
 ## OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/4c192d45-326b-462b-8dde-a5ce70ff842a)
 
-
-
-
+![Image](https://github.com/user-attachments/assets/c196b4ce-f3b8-4cf0-86f2-00411000cd1d)
 
 
 
